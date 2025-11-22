@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\Auth.deps.json
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\Auth.dll
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\Auth.pdb
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\DataAccess.dll
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\DataModel.dll
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\DataAccess.pdb
+C:\Users\USER\Desktop\Quizz\Auth\bin\Release\net8.0\DataModel.pdb
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.AssemblyInfo.cs
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.csproj.Up2Date
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.dll
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\refint\Auth.dll
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\Auth.pdb
+C:\Users\USER\Desktop\Quizz\Auth\obj\Release\net8.0\ref\Auth.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpBkCbIIElI=",
+  "success": true,
+  "projectFilePath": "C:\\Quizz\\DataModel\\DataModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
