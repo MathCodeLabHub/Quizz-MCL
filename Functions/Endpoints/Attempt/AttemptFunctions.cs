@@ -20,6 +20,7 @@ namespace Quizz.Functions.Endpoints.Attempt
 {
     public class AttemptFunctions
     {
+        //hii
         private readonly IDbService _dbService;
         private readonly IApiKeyService _apiKeyService;
         private readonly ILogger<AttemptFunctions> _logger;
