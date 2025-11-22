@@ -22,5 +22,14 @@
     "http": {
       "routePrefix": "api"
     }
+  },
+  "customHandler": {
+    "enableForwardingHttpRequest": true
+  },
+  "cors": {
+    "allowedOrigins": [
+      "https://black-bush-0d3fb621e.3.azurestaticapps.net"
+    ],
+    "supportCredentials": true
   }
 }
