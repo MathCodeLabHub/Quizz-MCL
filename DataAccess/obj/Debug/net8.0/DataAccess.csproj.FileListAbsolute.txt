@@ -30,3 +30,6 @@ C:\Quizz\DataAccess\obj\Debug\net8.0\DataAccess.dll
 C:\Quizz\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Quizz\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Quizz\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\DataAccess.deps.json
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\DataAccess.dll
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\DataAccess.pdb

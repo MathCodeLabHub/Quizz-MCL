@@ -24,3 +24,6 @@ C:\Quizz\DataModel\obj\Debug\net8.0\DataModel.dll
 C:\Quizz\DataModel\obj\Debug\net8.0\refint\DataModel.dll
 C:\Quizz\DataModel\obj\Debug\net8.0\DataModel.pdb
 C:\Quizz\DataModel\obj\Debug\net8.0\ref\DataModel.dll
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\DataModel.deps.json
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\DataModel.dll
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\DataModel.pdb

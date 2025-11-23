@@ -32,3 +32,6 @@ C:\Quizz\Auth\obj\Debug\net8.0\Auth.dll
 C:\Quizz\Auth\obj\Debug\net8.0\refint\Auth.dll
 C:\Quizz\Auth\obj\Debug\net8.0\Auth.pdb
 C:\Quizz\Auth\obj\Debug\net8.0\ref\Auth.dll
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\Auth.deps.json
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\Auth.dll
+C:\CodeBaseV2\Quizz-MCL\Functions\bin\output\Auth.pdb
